@@ -30,6 +30,7 @@ kubectl version
 ssh-keygen -f .ssh/id_rsa
 
 
+
 6. Environment variables setup -- Remember cluster name should ends with k8s.local
 updated these two vars in .bashrc & .profile in ~ dir.
 export KOPS_CLUSTER_NAME=advith.k8s.local
